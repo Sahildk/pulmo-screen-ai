@@ -290,15 +290,6 @@ This project aligns with **United Nations Sustainable Development Goal 3: Good H
 
 ---
 
-## 🤝 Contributors
-
-| Sr. No | 👤 Name | 📚 Division | 🆔 Roll Number |
-|--------|---------|-------------|-----------------|
-| 01 | Nikhil Ankola | TYIT-1 | 23UF18042IT001 |
-| 02 | Shriya Bhambure | TYIT-1 | 23UF18375IT005 |
-| 07 | Sahil Deore | TYIT-1 | 23UF17901IT013 |
-
----
 
 ## 📜 License
 
