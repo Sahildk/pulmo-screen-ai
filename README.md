@@ -301,7 +301,7 @@ This project is developed for educational and research purposes as part of the *
 
 _Built with ❤️ using Python, React & Machine Learning_
 
-⭐ **Star this repo if you found it useful!** ⭐
+⭐ **I recommend you to Star this repo if you found it useful!** ⭐
 
 </div>
 
